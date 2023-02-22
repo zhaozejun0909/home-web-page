@@ -1,0 +1,27 @@
+{
+  "name": "home-web-page",
+  "version": "1.0.0",
+  "description": "zhaozejun home page",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozejun0909/home-web-page.git"
+  },
+  "author": "zhaozejun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaozejun0909/home-web-page/issues"
+  },
+  "homepage": "https://github.com/zhaozejun0909/home-web-page#readme",
+  "devDependencies": {
+    "sass": "^1.58.3",
+    "vitepress": "^1.0.0-alpha.47",
+    "vue": "^3.2.47"
+  }
+}
